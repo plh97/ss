@@ -1,0 +1,2 @@
+# shadowsocket config
+
